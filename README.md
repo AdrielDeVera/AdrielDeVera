@@ -19,7 +19,9 @@
 
 🌟 Projects...
 - Coming Soon...
+![Alt Text](https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif)
 
+https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif
 <iframe src="https://giphy.com/embed/bPCwGUF2sKjyE" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reddit-bPCwGUF2sKjyE">via GIPHY</a></p>
 
 <!--
