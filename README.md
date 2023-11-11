@@ -3,19 +3,19 @@
 ## Adriel 101
 
 ### 🌟 My Specialities
-> Enterprise Level Software Developement
-> Agile Coaching and Implementation
-> System Design
+- Enterprise Level Software Developement
+- Agile Coaching and Implementation
+- System Design
 
 ### 🌟 My Interests...
-> Swimming
-> Hiking
-> Travelling
+- Swimming
+- Hiking
+- Travelling
 
 ### 🌟 Currently Learning About...
-> Software Architecture and Design
-> Personal Knowledge Management
-> Systems Design DevOps
+- Software Architecture and Design
+- Personal Knowledge Management
+- Systems Design DevOps
 
 ### 🌟 Projects...
 > Coming Soon...
