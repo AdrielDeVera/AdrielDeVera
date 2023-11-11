@@ -1,18 +1,18 @@
 
 
-## Adriel 101
+### Adriel 101
 
-### 🌟 My Specialities
+ 🌟 My Specialities
 - Enterprise Level Software Developement
 - Agile Coaching and Implementation
 - System Design
 
-### 🌟 My Interests...
+🌟 My Interests...
 - Swimming
 - Hiking
 - Travelling
 
-### 🌟 Currently Learning About...
+🌟 Currently Learning About...
 - Software Architecture and Design
 - Personal Knowledge Management
 - Systems Design DevOps
