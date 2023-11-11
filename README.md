@@ -2,7 +2,7 @@
 
 ### Adriel 101
 
- 🌟 My Specialities
+ 🌟 My Specialities...
 - Enterprise Level Software Developement
 - Agile Coaching and Implementation
 - System Design
@@ -20,6 +20,7 @@
 🌟 Projects...
 - Coming Soon...
 
+<iframe src="https://giphy.com/embed/bPCwGUF2sKjyE" width="480" height="357" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/computer-reddit-bPCwGUF2sKjyE">via GIPHY</a></p>
 
 <!--
 **AdrielDeVera/AdrielDeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
