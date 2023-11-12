@@ -5,7 +5,7 @@
  🌟 My Specialities...
 - Enterprise Level Software Developement
 - Agile Coaching and Implementation
-- System Design
+- Software Systems Design
 
 🌟 My Interests...
 - Swimming
@@ -15,7 +15,7 @@
 🌟 Currently Learning About...
 - Software Architecture and Design
 - Personal Knowledge Management
-- Systems Design DevOps
+- Cloud DevOps
 
 🌟 Projects...
 
