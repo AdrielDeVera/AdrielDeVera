@@ -16,6 +16,7 @@
 - Software Architecture and Design
 - Personal Knowledge Management
 - Cloud DevOps
+- Systems and Networking
 
 🌟 Projects...
 
