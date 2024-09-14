@@ -1,7 +1,13 @@
 
 
-### Adriel 101
+# Adriel 101😁
+### An avid learner who is currently exploring the crossroads between people🏘️, software💻, and design🖼️
+</div>
+</br>
 
+## Technologies/Languages 📑
+</div>
+</br>
  🌟 My Specialities...
 - Enterprise Level Software Developement
 - Agile Coaching and Implementation
