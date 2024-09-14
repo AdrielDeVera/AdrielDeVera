@@ -8,6 +8,12 @@
 ## Technologies/Languages 📑
 </div>
 </br>
+
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
+
+## About Me 📑
+</div>
+</br>
  🌟 My Specialities...
 - Enterprise Level Software Developement
 - Agile Coaching and Implementation
