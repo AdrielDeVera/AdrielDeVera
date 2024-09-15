@@ -5,7 +5,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrieldevera-/) <Br>
 ![](https://komarev.com/ghpvc/?username=adrieldevera)
 </div>
-</br>
 
 ## Technologies/Languages 📑
 </div>
@@ -39,8 +38,12 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+<div align="center">
+
+  
 ![Alt Text](https://media.giphy.com/media/bPCwGUF2sKjyE/giphy.gif)
 
+</div>
 <!--
 **AdrielDeVera/AdrielDeVera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
