@@ -6,6 +6,12 @@
 ![](https://komarev.com/ghpvc/?username=adrieldevera)
 </div>
 
+## What I am Working on 👨‍💻
+- University of Waterloo Undergraduate Research Assistant at the Behavioural Analytics and Modelling Lab with Dr. Ken McKay
+- Stochii a Retrieval-Augmented Generation (RAG) chatbot application 
+- Pazalea a dating app that focuses on planning unique date experiences rather than matching people
+
+
 ## Technologies/Languages 📑
 </div>
 
