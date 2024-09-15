@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=adrieldevera)
 </div>
 
-### Technologies/Languages 📑
+## Technologies/Languages 📑
 </div>
 
 #### Programming Languages
